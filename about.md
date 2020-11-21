@@ -3,27 +3,10 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is under development.
-</p>
+June Chan is a student at Stanford through Non-Degree Option program. She is learning to write better code, and do better maths.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+She is a business consultant and was VP Marketing for her last client. Before that, she cofounded and served as COO in a startup, which was funded by Alibaba (Riverhill Fund, Series A) and a South East Asia Airport fund (Series B).
 
-There are currently two themes built on Poole:
+June moved to San Francisco from Hong Kong in 2019. During the pandemic, she learned [how to make the perfect pizza dough](https://www.youtube.com/watch?v=SDpCzJw2xm4&list=PLPvoLJW0kOl8dtUWddvDvQfZWKlwwJXdX&index=2&t=0s).
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+She holds a M.Phil. in Philosophy. Her favorite philosopher is David Hume, only because of his English sense of humor.
