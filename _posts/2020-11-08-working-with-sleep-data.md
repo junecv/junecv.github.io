@@ -13,7 +13,7 @@ To start, I obtained three anonymous polysomnography records from NSRR. Technica
 
 Polysomnography are sleep recorded in European Data Format (EDF), which is a standard file format designed for exchange and storage of medical time series [wiki](https://en.wikipedia.org/wiki/European_Data_Format). Since it is not the typical CSV file, I need to find a way to read a EDF and translate it into dataframes before I can start working with the data.
 
-I found two R packages "edf" and "edfReader", tried them both and settled with "edfReader", because the later breaks the reading process into Reader and Signals, which I personally find it more friendly to newbies. "edfReader" was developed with codes from "edf" and I did not find anything that it can do and "edf" cannot.
+I found two R packages "edf" and "edfReader", tried them both and settled with "edfReader", because the later breaks the reading process into Header and Signals, which I personally find it more friendly to newbies. "edfReader" was developed with codes from "edf" and I did not find anything that it can do and "edf" cannot.
 
 ### Luna
 
