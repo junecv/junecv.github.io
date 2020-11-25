@@ -15,4 +15,6 @@ Polysomnography are sleep recorded in European Data Format (EDF), which is a sta
 
 I found two R packages "edf" and "edfReader", tried them both and settled with "edfReader", because the later breaks the reading process into Reader and Signals, which I personally find it more friendly to newbies. "edfReader" was developed with codes from "edf" and I did not find anything that it can do and "edf" cannot.
 
-### Luna 
+### Luna
+
+*To be continued*
