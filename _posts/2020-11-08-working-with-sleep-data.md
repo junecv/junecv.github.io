@@ -15,45 +15,4 @@ Polysomnography are sleep recorded in European Data Format (EDF), which is a sta
 
 I found two R packages "edf" and "edfReader", tried them both and settled with "edfReader", because the later breaks the reading process into Reader and Signals, which I personally find it more friendly to newbies. "edfReader" was developed with codes from "edf" and I did not find anything that it can do and "edf" cannot.
 
-After reading the header, summary() returns:
-
-<p class="message">
-File name            : /Users/jc/learn/polysomnography/edfs/learn-nsrr01.edf  
-File type            : EDF  
-Version              : 0  
-Patient              :   
-RecordingId          :   
-StartTime            : 1985-01-01 21:58:17   
-Continuous recording : TRUE  
-Recorded period      : 40920 sec = 11:22:00 h:m:s
-Ordinary signals     : 14  
-Annotation signals   : 0  
-Labels               : SaO2, PR, EEG(sec), ECG, EMG, EOG(L), EOG(R), EEG, AIRFLOW, THOR RES, ABDO RES, POSITION, LIGHT, OX STAT  
-</p>
-
-And the signal file shows:
-
-<p class="message">
-Start time            : 1985-01-01 21:58:17   
-Ordinary signals:
- Continuous recording : TRUE  
- Recorded period      : 40920 sec = 11:22:00 h:m:s
- Period read          : whole recording  
- Signals
- R      name     transducer sampleRate preFilter  samples
- signal                           /sec                    
- 1      SaO2                         1              40920
- 2      PR                           1              40920
- 3      EEG(sec)                   125            5115000
- 4      ECG                        250           10230000
- 5      EMG                        125            5115000
- 6      EOG(L)                      50            2046000
- 7      EOG(R)                      50            2046000
- 8      EEG                        125            5115000
- 9      AIRFLOW                     10             409200
- 10     THOR RES                    10             409200
- 11     ABDO RES                    10             409200
- 12     POSITION                     1              40920
- 13     LIGHT                        1              40920
- 14     OX STAT                      1              40920
-</p>
+### Luna 
