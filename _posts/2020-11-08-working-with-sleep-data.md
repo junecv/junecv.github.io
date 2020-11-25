@@ -7,7 +7,7 @@ Recently, I learned from a friend that sleep medicine technicians are trained to
 
 ### Obtaining Data
 
-To start, I obtained anonymous three polysomnography files from NSRR. Technically, the process involves installation of Ruby, and their official ruby gem. They have very good [documentation here](https://github.com/nsrr/nsrr-gem).
+To start, I obtained three anonymous polysomnography records from NSRR. Technically, the process involves installation of Ruby, and their official ruby gem. They have very good [documentation here](https://github.com/nsrr/nsrr-gem).
 
 ### Reading EDF Data
 
