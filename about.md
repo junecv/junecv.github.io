@@ -9,7 +9,7 @@ I have 10 years of experience in project and business management. The most signi
 
 Curiosity led me to the study of philosophy and I hold a Masters degree. I'm interested in analytic philosophy. I consider myself a consequentialist and existentialist. My favorite philosophers are Zhuang Zi and David Hume, both have deep sense of humor.
 
-I'm self-studying statistical learning and machine learning by reading and taking graduate courses through the Stanford Non-Degree program. I want more than just using packages as a black-box so I decide to it the hard way. My focus is on ML applications in healthcare, and bias problems.
+I'm self-studying statistical learning and machine learning by reading and taking graduate courses through the Stanford Non-Degree program. I want more than just using packages as a black-box so I decide to learn it the hard way. My focus is on ML applications in healthcare, and bias problems.
 
 @ San Francisco
 
