@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-# Business, Philosophy, and AI
+## Business, Philosophy, and AI
 
 I have 10 years of experience in project and business management. The most significant project I did was co-founding a startup that grew to 300 employees, achieved annual sales revenue of USD 15m, and raised USD 10m. My last job was managing commercial development in two real-estate redevelopment projects for a private equity company, in which I closed contract with value of USD 37m.
 
