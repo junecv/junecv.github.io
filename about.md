@@ -7,7 +7,7 @@ title: About
 
 I ask meta-questions and seek practical solutions at the same time. Having a non-linear career path allows me to understand business from a wide spectrum of perspectives.
 
-I have 10 years of experience in project and business management. The most significant project I did was co-founding a startup that grew to 300 employees, achieved annual sales revenue of USD 15m, and raised USD 10m. My last job was managing commercial development in two real-estate redevelopment projects for a private equity company, in which I closed contract with value of USD 37m.
+I have 10 years of experience in project and business management. I co-founded a startup and scaled it to 300 employees. We achieved annual sales revenue of USD 15m and raised USD 10m. My last job was managing commercial development in two real-estate redevelopment projects for a private equity company, in which I closed contract with value of USD 37m.
 
 Curiosity led me to the study of philosophy and I hold a Masters degree. My research focus was [analytic philosophy](https://en.wikipedia.org/wiki/Analytic_philosophy), and applying its methods on ethical theory analysis. I consider myself a consequentialist and existentialist. My favorite philosophers are Zhuang Zi and David Hume, both have great sense of humor.
 
