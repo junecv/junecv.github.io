@@ -31,7 +31,7 @@ Good luck.
 
 ### Other notes
 
-#### *I tried this[https://cs.stanford.edu/people/eroberts/courses/cs106a/materials/], it doesn't work*
+#### *I tried [this](https://cs.stanford.edu/people/eroberts/courses/cs106a/materials/), it doesn't work.*
 
 Not even after changing the BlankKarel.jar name to spl.jar.
 
