@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Stanford CS106A (2007 SEE version) Quick Reference
+title: Stanford CS106A (2007 SEE version) Eclipse Setup Quick Guide
 ---
 
-This is a quick reference for [CS106A] (https://see.stanford.edu/Course/CS106A) self-learners when they encounter difficulties installing and setting up Eclipse, or having blank Karel screen. I use Macbook M1, but below included links shall make it easy for anyone using other versions of Macbook or PC.
+This is a quick reference for [CS106A](https://see.stanford.edu/Course/CS106A) self-learners when they encounter difficulties installing and setting up Eclipse, or having blank Karel screen problem. I use Macbook M1, but below included links shall make it easy for anyone using other versions of Macbook or PC.
 
 ### Installing Eclipse and Java Runtime Environment
 
@@ -31,14 +31,16 @@ Good luck.
 
 ### Other notes
 
-*I tried this, it doesn't work.*
-https://cs.stanford.edu/people/eroberts/courses/cs106a/materials/
+#### *I tried this[https://cs.stanford.edu/people/eroberts/courses/cs106a/materials/], it doesn't work*
 
-*Credit*
+Not even after changing the BlankKarel.jar name to spl.jar.
+
+#### *Credit*
+
 I first solved the blank screen problem by following the answer from Anonymous [here](https://stackoverflow.com/questions/43929424/karel-screen-is-blank-when-trying-to-run-in-eclipse-on-mac). But as the course design has changed from using Java to using Python as teaching medium, the current course website no longer have blank Karel project.
 
-*Why I'm doing this*
+#### *Why I'm doing this*
 
 Stanford [SEE](https://see.stanford.edu) is an amazing platform that provides free resources for software engineering newbies who want to learn the *science* in computer science, and the *methodology* in programming, and not just coding. I have a lot of pleasure "attending" Professor Sahami's class and know exactly how Karel sounds like.
 
-**BUT**, the materials are from 2007, so understandably there are some broken links. When it happens multiple times during the setup phase, it can be frustrating and discouraging to someone with zero experience in computer programing, *exactly* whom this course is supposed to teach. In 2020, the course design took a turn to use Python instead of Java, meaning it's more difficult to find help to fill in the gap. I feel that such precious collection of materials should not go obsolete. 
+But the materials are from 2007, so understandably there are some broken links. When it happens multiple times during the setup phase, it can be frustrating and discouraging to someone with zero experience in computer programing, *exactly* whom this course is supposed to teach. In 2020, the course design took a turn to use Python instead of Java, meaning it's more difficult to find help to fill in the gap. I feel that such precious collection of materials should not go obsolete.
