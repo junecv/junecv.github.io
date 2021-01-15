@@ -37,7 +37,7 @@ Not even after changing the BlankKarel.jar name to spl.jar.
 
 #### *Credit*
 
-I first solved the blank screen problem by following the answer from Anonymous [here](https://stackoverflow.com/questions/43929424/karel-screen-is-blank-when-trying-to-run-in-eclipse-on-mac). But as the course design has changed from using Java to using Python as teaching medium, the current course website no longer have blank Karel project.
+I first solved the blank screen problem by following the answer from Anonymous [here](https://stackoverflow.com/questions/43929424/karel-screen-is-blank-when-trying-to-run-in-eclipse-on-mac). But as the course design has changed from using Java to using Python as the teaching medium, the current course website no longer has blank Karel project.
 
 #### *Why I'm doing this*
 

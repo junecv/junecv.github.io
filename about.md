@@ -16,3 +16,4 @@ I'm self-studying statistical learning and machine learning by reading and takin
 @ San Francisco
 
 [Linkedin](https://www.linkedin.com/in/junecpy/)
+Gmail: tumbledrycold
